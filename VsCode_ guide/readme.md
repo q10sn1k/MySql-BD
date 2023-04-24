@@ -1,4 +1,4 @@
-# Скачайте инсталятор Python
+# Скачайте инсталлятор Python
 https://www.python.org/downloads/
 # Во время установки поставьте селектор - 'ADD Python.exe to PATH'
 ![ADD Python.exe to PATH](pic/install_py.png)
